@@ -1,5 +1,7 @@
 # Keypad-lock-using-8051-Proteus-
 
+Copyright (C) 2020 by Aditya R, Institute of Technology, Nirma University.
+
 This project is about keypad lock implementation along with 8051 on Proteus Simulation. 
 The code here is based on C programming.
 Upload the hex file in proteus file.
